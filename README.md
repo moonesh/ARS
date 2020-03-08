@@ -3,7 +3,7 @@
 
 This repository is a very basic sample backed via static response.  
 It only demonstrates how a osgi bundle is deployed with JBoss Fuse over karaf.  
-The bundle creates a jax-rs server listening at http://localhost:9000/employeeService via spring context.  
+The bundle creates a jax-rs server listening at http://localhost:9000/flightService via spring context.  
 The Redhat fuse console runs at default http://localhost:8181/.  
 
 # Pre requisites:
